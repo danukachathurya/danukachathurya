@@ -28,6 +28,8 @@
 
 <h3 align="center">GitHub Stats 📈:</h3>
 
+<h3 align="center">GitHub Stats 📈:</h3>
+
 <p align="center">
   <table align="center">
     <tr border="none">
@@ -46,6 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia" />
 </p>
+
 
 
 <h3 align="center">Connect with me:</h3>
