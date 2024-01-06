@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
   <p align="center">
-	<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = "450"> </p>
+	<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = "400"> </p>
 
 </td>
 </tr>
