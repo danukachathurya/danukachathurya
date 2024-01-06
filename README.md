@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<div style="text-align: center; padding: 10px; background-color: #f0f0f0;">
+    <img src="[your-gif-image-link.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISIDoW0a7sSVxyvOcXzAT_0xUMAtUzwLBuOnqtHbPH7GmcjA-K7GLLS9R8fC3KgQ21iE&usqp=CAU)" alt="Banner Image" style="width: 100%; max-width: 800px; height: auto;">
+</div>
 <h1 align="center">Hi 👋, I'm Danuka Chathurya</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
