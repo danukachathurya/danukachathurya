@@ -26,23 +26,13 @@
 </tr>
 </table>
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=danukachathurya&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danukachathurya&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## GitHub Stats 📈 :
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danukachathurya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danukachathurya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![danukachathurya GitHub stats](https://github-readme-stats.vercel.app/api?username=danukachathurya&theme=algolia)](https://github.com/danukachathurya/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danukachathurya&theme=algolia)](https://github.com/danukachathurya/github-readme-stats) [![danukachathurya wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
