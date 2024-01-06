@@ -4,7 +4,7 @@
 
 <h3 align="center">Passionate IT Student from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danukachathurya&label=Profile%20views&color=0e75b6&style=flat" alt="danukachathurya" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=danukachathurya&label=Profile%20views&color=0e75b6&style=flat](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)" alt="danukachathurya" /> </p>
 
 <table align="center">
 <tr border="none">
